@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Лаб. роб. №1. Карпека Дмитрій</string>
+    <string name="button_label_send">Перейти до алгоритму №2</string>
+    <string name="_1">Алгоритм №1</string>
+    <string name="_2">Алгоритм №2</string>
+    <string name="a_1">a</string>
+    <string name="b_1">b</string>
+    <string name="c_1">c</string>
+    <string name="d_1">d</string>
+    <string name="count">Обчислити</string>
+    <string name="exc1">Некоректний ввід</string>
+    <string name="exc2">Початкова умова не відповідає ОДЗ</string>
+    <string name="result_uk">Результат</string>
+    <string name="k_1">k</string>
+    <string name="button_label_goto3">перейти до алгоритму №3</string>
+    <string name="button_label_goto2">Перейти до алгоритму №2</string>
+    <string name="_3">Алгоритм №3</string>
+    <string name="p_3">p</string>
+</resources>
